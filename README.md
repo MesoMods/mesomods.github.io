@@ -1,7 +1,7 @@
-# misode.github.io
-> Data Pack Generators for Minecraft Java Edition
+# mesomods.github.io
+> Data Pack Generator for Mesophil’s Cities Stylepacks
 
-https://misode.github.io/
+https://mesomods.github.io/
 
 ## Contributing
 This project uses [Preact](https://preactjs.com/) and [Vite](https://vitejs.dev/).
